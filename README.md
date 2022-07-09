@@ -1,2 +1,2 @@
-# qr_reader
+# QR_Reader
 This is simple QR code reader, I made it for fun .... The  program is written in 2 langauge which is python and C++. The python program using the python version 3.10.0 and the library OpenCV, pyzbar where as the C++ program uses the opencv and its own qr code function. Any Improvement please fork this repository and change it make it for mobile and other platform or increse the functionality.
